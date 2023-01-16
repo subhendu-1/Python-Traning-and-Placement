@@ -1,0 +1,11 @@
+system Design
+(UI)front-end
+(API)Middle-wire
+(DB)Back-end
+UI:User response are taken next create UI
+UX:Tis is create by devoloper
+
+UI->request(json)->server->DB->akw()server->response(json)->json passing->UI;
+JSON:
+JSON stands for java String object notation
+it is use key and value pair using : and ,
